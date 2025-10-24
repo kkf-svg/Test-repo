@@ -19,7 +19,7 @@ html{
   padding: 50px;
 }
 
-/* Content container */
+
 .hero-content {
   display: flex;
   align-items: center;
@@ -28,7 +28,7 @@ html{
   max-width: 1200px;
 }
 
-/* Text Box */
+
 .hero-text {
   flex: 1;
   background-color: rgba(255, 255, 255, 0.9);
@@ -67,7 +67,7 @@ html{
   background-color: #555;
 }
 
-/* Image box */
+
 .hero-image {
   flex: 1;
   display: flex;
