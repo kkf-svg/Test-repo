@@ -1,2 +1,2 @@
 This is Sydnie's test txt file.
-I added thsi line after commiting.
+I added this line after commiting.
